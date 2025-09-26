@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p>I am a computer science student at San Francisco State University. I love working on front-end development and is curious about the field of cybersecurity.</p>
+
+## Technical Skills Summary
+### Programming Languages
+<ul>
+    <li>VB.NET</li>
+    <li>C++</li>
+    <li>Java</li>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+</ul>
+
+<p>What else, what else? Oh, I'm also taking a CodePath class this semester, specifically Intermediate Cybersecurity (CYB102). It's pretty cool.</p>
+
+<!--TODO: Figure out what else to write in my profile -->
+
